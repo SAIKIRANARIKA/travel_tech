@@ -704,7 +704,9 @@ section {
 .clients .silde {
   text-align: center;
 }
-
+.icons{
+  text-decoration:none;
+}
 .clients .silde img {
   height: 12rem;
 }
